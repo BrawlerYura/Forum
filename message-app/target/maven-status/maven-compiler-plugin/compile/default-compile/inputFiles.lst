@@ -1,0 +1,10 @@
+Z:\Files\Java\multimodule_test\message-app\src\main\java\org\example\message\model\entity\MessageEntity.java
+Z:\Files\Java\multimodule_test\message-app\src\main\java\org\example\message\controller\MessageController.java
+Z:\Files\Java\multimodule_test\message-app\src\main\java\org\example\message\MessageServer.java
+Z:\Files\Java\multimodule_test\message-app\src\main\java\org\example\message\service\MessageService.java
+Z:\Files\Java\multimodule_test\message-app\src\main\java\org\example\message\repository\MessageRepository.java
+Z:\Files\Java\multimodule_test\message-app\src\main\java\org\example\message\controller\IntegrationMessageController.java
+Z:\Files\Java\multimodule_test\message-app\src\main\java\org\example\message\model\dto\MessageDto.java
+Z:\Files\Java\multimodule_test\message-app\src\main\java\org\example\message\model\requestBody\UpdateMessageRequestBody.java
+Z:\Files\Java\multimodule_test\message-app\src\main\java\org\example\message\model\requestBody\CreateMessageRequestBody.java
+Z:\Files\Java\multimodule_test\message-app\src\main\java\org\example\message\model\dto\FetchMessagesDto.java

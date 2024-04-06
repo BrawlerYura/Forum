@@ -1,0 +1,10 @@
+org\example\message\model\dto\MessageDto.class
+org\example\message\MessageServer.class
+org\example\message\repository\MessageRepository.class
+org\example\message\model\dto\FetchMessagesDto.class
+org\example\message\model\requestBody\CreateMessageRequestBody.class
+org\example\message\controller\IntegrationMessageController.class
+org\example\message\controller\MessageController.class
+org\example\message\model\entity\MessageEntity.class
+org\example\message\service\MessageService.class
+org\example\message\model\requestBody\UpdateMessageRequestBody.class

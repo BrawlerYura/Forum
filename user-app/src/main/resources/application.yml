@@ -1,0 +1,22 @@
+spring.config.import: classpath:/security.yml
+
+server:
+  port: 8080
+
+spring:
+  application:
+    name: user-service
+  datasource:
+    url: jdbc:postgresql://localhost:5432/mm_test
+    username: postgres
+    password: postgres
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: validate
+
+  flyway:
+    locations: classpath:migrations
+    url: jdbc:postgresql://localhost:5432/mm_test
+    user: postgres
+    password: postgres

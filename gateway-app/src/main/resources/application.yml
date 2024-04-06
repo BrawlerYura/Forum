@@ -1,0 +1,42 @@
+eureka:
+  client:
+    enabled: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    prefer-ip-address: true
+
+server:
+  port: 8079
+
+spring:
+  application:
+    name: gateway
+  cloud:
+    gateway:
+      routes:
+
+        - id: user-service
+          uri: http://localhost:8080/
+          predicates:
+            - Path=/api/user/**
+
+        - id: category-service
+          uri: http://localhost:8081/
+          predicates:
+            - Path=/api/category/**
+
+        - id: theme-service
+          uri: http://localhost:8082/
+          predicates:
+            - Path=/api/theme/**
+
+        - id: message-service
+          uri: http://localhost:8083/
+          predicates:
+            - Path=/api/message/**
+
+        - id: forum-service
+          uri: http://localhost:8084/
+          predicates:
+            - Path=/api/forum/**

@@ -1,0 +1,3 @@
+org\example\forum\controller\ForumController.class
+org\example\forum\service\ForumService.class
+org\example\forum\ForumServer.class

@@ -1,0 +1,8 @@
+org\example\category\repository\CategoryRepository.class
+org\example\category\model\requestBody\CategoryUpdateRequestBody.class
+org\example\category\service\CategoryService.class
+org\example\category\CategoryServer.class
+org\example\category\controller\IntegrationCategoryController.class
+org\example\category\model\entity\CategoryEntity.class
+org\example\category\model\requestBody\CategoryCreateRequestBody.class
+org\example\category\controller\CategoryController.class

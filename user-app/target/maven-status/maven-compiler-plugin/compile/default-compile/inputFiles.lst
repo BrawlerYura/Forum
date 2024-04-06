@@ -1,0 +1,11 @@
+Z:\Files\Java\multimodule_test\user-app\src\main\java\org\example\user\service\AuthenticationService.java
+Z:\Files\Java\multimodule_test\user-app\src\main\java\org\example\user\controller\IntegrationUserController.java
+Z:\Files\Java\multimodule_test\user-app\src\main\java\org\example\user\model\entity\UserEntity.java
+Z:\Files\Java\multimodule_test\user-app\src\main\java\org\example\user\model\requestBody\UserUpdateRequestBody.java
+Z:\Files\Java\multimodule_test\user-app\src\main\java\org\example\user\service\UserService.java
+Z:\Files\Java\multimodule_test\user-app\src\main\java\org\example\user\controller\UserController.java
+Z:\Files\Java\multimodule_test\user-app\src\main\java\org\example\user\model\requestBody\UserCreateRequestBody.java
+Z:\Files\Java\multimodule_test\user-app\src\main\java\org\example\user\UserServer.java
+Z:\Files\Java\multimodule_test\user-app\src\main\java\org\example\user\repository\UserRepository.java
+Z:\Files\Java\multimodule_test\user-app\src\main\java\org\example\user\model\dto\TokenDto.java
+Z:\Files\Java\multimodule_test\user-app\src\main\java\org\example\user\model\requestBody\UserCredentialsRequestBody.java
